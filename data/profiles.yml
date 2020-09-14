@@ -1,0 +1,22 @@
+# profiles:
+
+- provider: linkedin
+  link: http://www.linkedin.com/in/ahmader
+
+- provider: github
+  link: https://github.com/ahmader
+
+- provider: gitlab
+  link: https://gitlab.com/ahmader
+
+- provider: npm
+  link: https://www.npmjs.com/~ahmader
+
+- provider: docker
+  link: https://hub.docker.com/u/ahmader
+
+- provider: facebook
+  link: https://www.facebook.com/ahmader
+
+- provider: twitter
+  link: http://twitter.com/ahmader
