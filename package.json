@@ -1,13 +1,13 @@
 {
-  "name": "ahmader-vuepress",
+  "name": "vuepress-app",
   "version": "0.0.1",
-  "description": "Ahmader Lifebook",
+  "description": "Ahmader VuePress App",
   "main": "index.js",
   "authors": {
     "name": "ahmader",
     "email": "ahmader@gmail.com"
   },
-  "repository": "/ahmader-vuepress",
+  "repository": "https://github.com/ahmader/vuepress-app.git",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
